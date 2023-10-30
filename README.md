@@ -1,10 +1,13 @@
 # fresh-project
 
 ## Introduction
+Introduction Text
 
-## Purpose
+## Purposp
+Purpose Text
 
 ## Deployment 
+#Deployments Steps
 
 ## How to Contribute
-
+Contribute Text
