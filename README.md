@@ -11,3 +11,7 @@ Purpose Text
 
 ## How to Contribute
 Contribute Text
+
+## Copyright
+
+Git Practice
