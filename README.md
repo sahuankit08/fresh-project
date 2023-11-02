@@ -14,5 +14,5 @@ Purpose Text
 Contribute Text
 
 ## Copyright
-
+All rights reserved.
 Git Practice
